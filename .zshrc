@@ -1,5 +1,4 @@
-eval "$(oh-my-posh init zsh --config ~/repos/dotfiles/oh-my-posh/powerlevel10k_rainbow.omp.json)"
-
+eval "$(oh-my-posh init zsh --config ~/repos/dotfiles/oh-my-posh/zen.omp.json)"
 # Added by LM Studio CLI (lms)
 export PATH="$PATH:/Users/smr/.lmstudio/bin"
 # End of LM Studio CLI section

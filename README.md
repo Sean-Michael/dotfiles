@@ -1,7 +1,7 @@
 # dotfiles
 
 - `.zshrc` — zsh config (symlinked to `~/.zshrc`)
-- `oh-my-posh/powerlevel10k_rainbow.omp.json` — prompt theme
+- `oh-my-posh/zen.omp.json` — prompt theme (dir, git branch/status, ❯)
 
 ## Install
 
